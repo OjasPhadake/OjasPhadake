@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ojas Phadake</h1>
 <h3 align="center">A 4th year student pursuing a B.Tech in Chemical Engineering and an Inter Disciplinary Dual Degree in Data Science from IIT Madras, passionate about machine learning and the applications of mathematics in data science.</h3>
 
-- 🔭 I’m currently working on **State space probabilistic Modelling and Control Theory**
+- 🔭 I’m currently working on **State Space probabilistic Modelling and Control Theory**
 
 - 🌱 I’m currently learning **OpenCV, NLP**
 
-- 💬 Ask me about **machine learning, optimisation, probability, statistics, numerical linear algebra, stochastic processes**
+- 💬 Ask me about **machine learning, convex optimisation, probability, statistics, numerical linear algebra, stochastic processes**
 
 - 📫 How to reach me **ojasphadake@gmail.com**
 
