@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ojas Phadake</h1>
-<h3 align="center">A 4th year student pursuing a B.Tech in Chemical Engineering and an Inter Disciplinary Dual Degree in Data Science from IIT Madras, passionate about machine learning, control theory and systems and the applications of mathematics in data science.</h3>
+<h3 align="center">A 4th year student pursuing a B.Tech in Chemical Engineering and an Inter Disciplinary Dual Degree in Data Science from IIT Madras, passionate about quantitative finance, machine learning, control theory and systems and the applications of mathematics in data science.</h3>
 
 - I’m currently working on **State Space Probabilistic Modelling and Control**
 
