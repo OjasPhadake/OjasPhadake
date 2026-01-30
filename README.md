@@ -9,7 +9,7 @@
 
 - How to reach me **ojasphadake@gmail.com**
 
-- Know about my experiences <a href="https://drive.google.com/file/d/1kDp1cgcY4EWvJw4iXb0XaSpHMCdPIVXG/view?usp=sharing" target="_blank">Resume</a>
+- Know about my experiences <a href="https://drive.google.com/file/d/15DdARrK7eiMurINANxPh7hZVJOl2Q8c9/view?usp=sharing" target="_blank">Resume</a>
 
 - Fun fact **I write poems and fiction stories!**
 
