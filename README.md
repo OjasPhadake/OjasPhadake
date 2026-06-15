@@ -1,23 +1,71 @@
-<h1 align="center">Hi 👋, I'm Ojas Phadake</h1>
-<h3 align="center">A 4th year student pursuing a B.Tech in Chemical Engineering and an Inter Disciplinary Dual Degree in Data Science from IIT Madras, passionate about quantitative finance, machine learning, control theory and systems and the applications of mathematics in data science.</h3>
+<div align="center">
 
-- I’m currently working on **State Space Probabilistic Modelling and Control**
+# Ojas Phadake
 
-- I’m currently learning **computer vision, speech-to-speech transformers, vision language models**
+**B.Tech Chemical Engineering · M.Tech Data Science · IIT Madras**
 
-- Ask me about **machine learning, convex optimization, control theory, probability, statistics, numerical linear algebra, stochastic processes**
+*Building ML systems that work — end to end, in production, on real data.*
 
-- How to reach me **ojasphadake@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojas-phadake-42148b254/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ojasphadake@gmail.com)
 
-- Know about my experiences <a href="https://drive.google.com/file/d/15DdARrK7eiMurINANxPh7hZVJOl2Q8c9/view?usp=sharing" target="_blank">Resume</a>
+</div>
 
-- Fun fact **I write poems and fiction stories!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/OjasPhadake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ojas p." height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ojas-phadake-42148b254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojas phadake" height="30" width="40" /></a>
-</p>
+I'm a final-year Interdisciplinary Dual Degree student at IIT Madras. I build machine learning systems — multimodal pipelines, deep learning models, data-driven applications — and I care about getting them to actually work, not just on paper.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I have a strong mathematical foundation (optimization, probability, stochastic processes) that shapes how I think about problems, but my focus is on shipping: clean data pipelines, versioned experiments, deployed models, measurable results. I've worked across computer vision, NLP, time series, and multimodal systems, in both research and industry settings.
+
+---
+
+## What I'm Working On
+
+**Micro-Market Affluence Intelligence Engine** — Building an AI-powered pincode-level affluence scoring system for 19,000+ Indian pincodes using satellite imagery, geospatial data, and socioeconomic signals. 
+
+**State Space Modelling and Control (SMAC)** — Leading a student project on exploring control theory, LQR, optimization based safe control and path planning algorithms.
+
+**Deep Learning & Foundation Models** — Exploring vision-language models, multimodal architectures, and speech synthesis systems.
+
+---
+
+## Selected Projects
+
+| Project | What it is |
+|---|---|
+| [Drift-Aware Stock Prediction](https://github.com/OjasPhadake/Stock-Price-Prediction-Project) | Full MLOps pipeline: DVC feature engineering, MLflow experiment tracking, Dockerized FastAPI serving, automated drift detection and retraining |
+| [Inter IIT ISRO — Satellite Imagery AI](https://github.com/OjasPhadake/ISRO-GeoNLI) | VLM pipelines for captioning, grounding, and VQA on satellite imagery; LoRA finetuning on Qwen improved segmentation by 23% |
+| [Cattle Muzzle Identification](https://github.com/OjasPhadake/Cattle-Muzzle-Identification) | Transfer learning pipeline for cattle breed ID from muzzle images |
+| [Image Captioning with Monitoring](https://github.com/OjasPhadake/Image-Captioning-Monitoring) | Image captioning system with integrated model monitoring |
+| [ProjectAxify](https://github.com/Mathematics-Club-IIT-Madras/ProjectAxify) | Image compression and reconstruction using Medial Axis Transform; 33% compression, 8% OCR accuracy gain — won Best Software Project |
+
+---
+
+## Technical Skills
+
+**Languages** — Python · C++ · MATLAB
+
+**ML & Deep Learning** — PyTorch · TensorFlow · Scikit-Learn · XGBoost · Transformers · Vision-Language Models · LoRA Finetuning · MeloTTS
+
+**MLOps & Engineering** — MLflow · DVC · Docker · FastAPI · Apache Spark · Ray · Git · Linux · Gradio
+
+**Data Science** — Pandas · NumPy · SciPy · Seaborn · Matplotlib · cvxpy
+
+**Foundations** — Probability & Statistics · Stochastic Processes · Convex Optimization · Numerical Linear Algebra
+
+---
+
+## Areas of Interest
+
+Machine Learning · Control Theory · Optimization · Multimodal AI · NLP · MLOps · Time Series · Quantitative Finance · Probabilistic Modelling
+
+---
+
+
+<div align="center">
+
+*Outside of work: writing poetry, science-fiction, and occasionally getting too deep into probability puzzles.*
+
+**ojasphadake@gmail.com**
+
+</div>
