@@ -6,6 +6,7 @@
 
 *Quant Finance · Control & Optimization · Machine Learning*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ojasphadake.github.io-111111?style=flat&logo=googlechrome&logoColor=white)](https://ojasphadake.github.io)
 [![arXiv](https://img.shields.io/badge/arXiv-2611.19380-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2611.19380)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojas-phadake-42148b254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ojasphadake@gmail.com)
