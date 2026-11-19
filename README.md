@@ -43,7 +43,7 @@ Adapts a pretrained diffusion controller to new safety constraints at deployment
 | [**S&P 500 Constituent Intelligence**](https://github.com/OjasPhadake/snp500) | Point-in-time database of 25 years of index membership for survivorship-bias-free backtesting, served through FastAPI. |
 | [**Drift-Aware Trading ML Platform**](https://github.com/OjasPhadake/Stock-Price-Prediction-Project) | 4-service Dockerized prediction system at **<80 ms p95** latency, with drift detection and automated retraining. |
 | [**Portfolio Construction**](https://github.com/sparshgupta02/D6701_Projects) *(team)* | Mean-variance, HRP and Ledoit-Wolf shrinkage portfolios, plus a leakage-free LightGBM alpha model; Max-Sharpe portfolio reached **2.26** Sharpe. |
-| **Alpha Research, Trexquant** | Built ~**100** equity alphas with ablations, decorrelation analysis and meta-blending. |
+| **Alpha Research** | Built ~**100** equity alphas with ablations, decorrelation analysis and meta-blending. |
 | **Limit Order Book & Matching Engine** *(in progress, C++)* | Price-time-priority matching engine benchmarked on throughput and tail latency. |
 
 ## 🤖 Control & Optimization Projects
