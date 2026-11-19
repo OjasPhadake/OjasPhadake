@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/ojas_phadake.png" alt="Ojas Phadake" width="160">
+
 # Ojas Phadake
 
 **Dual Degree (B.Tech Chemical Engineering + M.Tech Data Science) · IIT Madras**
