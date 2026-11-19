@@ -2,70 +2,69 @@
 
 # Ojas Phadake
 
-**B.Tech Chemical Engineering · M.Tech Data Science · IIT Madras**
+**Dual Degree (B.Tech Chemical Engineering + M.Tech Data Science) · IIT Madras**
 
-*Building ML systems that work — end to end, in production, on real data.*
+*Quant Finance · Control & Optimization · Machine Learning*
 
+[![arXiv](https://img.shields.io/badge/arXiv-2611.19380-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2611.19380)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojas-phadake-42148b254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ojasphadake@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%20(1528)-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/baltaru)
+
+**Open to Quant Research/Dev, Robotics & Control, and ML roles (2027 graduate).**
 
 </div>
 
 ---
 
-I'm a final-year Interdisciplinary Dual Degree student at IIT Madras. I build machine learning systems — multimodal pipelines, deep learning models, data-driven applications — and I care about getting them to actually work, not just on paper.
+I work on optimization-driven decision making, from portfolio construction and alpha research to learning-based controllers for safe robotics. I use optimal control, convex optimization and stochastic processes to frame problems, and C++/Python to build systems that are reproducible and measurable.
 
-I have a strong mathematical foundation (optimization, probability, stochastic processes) that shapes how I think about problems, but my focus is on shipping: clean data pipelines, versioned experiments, deployed models, measurable results. I've worked across computer vision, NLP, time series, and multimodal systems, in both research and industry settings.
+## 📄 Publication
 
----
+**Test-Time Constraint-Aware Diffusion Predictive Control**: B. Lakshminarayanan, **O. Phadake**, Q. Chen, D. Baumann · *arXiv 2026* · [Paper](https://arxiv.org/abs/2611.19380) · [Code](https://github.com/ojasph/tca-dpc)
+Adapts a pretrained diffusion controller to new safety constraints at deployment, with no retraining or projection. It cuts constraint-violating steps per episode from **3.17 to 0.73**.
 
-## What I'm Working On
+## 💼 Experience
 
-**Micro-Market Affluence Intelligence Engine** — Building an AI-powered pincode-level affluence scoring system for 19,000+ Indian pincodes using satellite imagery, geospatial data, and socioeconomic signals. 
+- **Aalto University, Finland**, Safe Robotics Research Intern: ran all simulations and the numerical study for the TCA-DPC paper, benchmarking against projection-based DPCC on the D3IL robot-manipulator task (**82.7%** vs **71.3%** success).
+- **Flipped AI**, ML Research Intern (NYU Courant × IIT Madras): multi-agent extraction pipelines and an LLM hiring-fairness benchmark targeting ACM FAccT.
+- **ICICI Prudential**, Data Science Intern: unsupervised affluence ranking of **19K Indian pincodes** from 9 satellite and socioeconomic signals.
+## 🏆 Highlights
 
-**State Space Modelling and Control (SMAC)** — Leading a student project on exploring control theory, LQR, optimization based safe control and path planning algorithms.
+- 🥇 **1st place, Physical AI track, Toyota Hackcelerate 2026**: DreamerV3 world model with counterfactual planning; **93%** fewer unsafe decisions in CARLA.
+- 🛰️ **Inter IIT Tech Meet 14 (ISRO)**: Qwen3-VL + SAM3 satellite-imagery pipeline; LoRA fine-tuning improved IoU by **23%**.
+- 💻 **Codeforces Specialist (1528)**: global rank 265 among 30K+ participants in a Div. 2 round.
+- 🏅 **Best Software Project, Mathematics Club**: topology-aware image compression.
 
-**Deep Learning & Foundation Models** — Exploring vision-language models, multimodal architectures, and speech synthesis systems.
+## 📈 Quant Projects
 
----
-
-## Selected Projects
-
-| Project | What it is |
+| Project | |
 |---|---|
-| [Drift-Aware Stock Prediction](https://github.com/OjasPhadake/Stock-Price-Prediction-Project) | Full MLOps pipeline: DVC feature engineering, MLflow experiment tracking, Dockerized FastAPI serving, automated drift detection and retraining |
-| [Inter IIT ISRO — Satellite Imagery AI](https://github.com/OjasPhadake/ISRO-GeoNLI) | VLM pipelines for captioning, grounding, and VQA on satellite imagery; LoRA finetuning on Qwen improved segmentation by 23% |
-| [Cattle Muzzle Identification](https://github.com/OjasPhadake/Cattle-Muzzle-Identification) | Transfer learning pipeline for cattle breed ID from muzzle images |
-| [Image Captioning with Monitoring](https://github.com/OjasPhadake/Image-Captioning-Monitoring) | Image captioning system with integrated model monitoring |
-| [ProjectAxify](https://github.com/Mathematics-Club-IIT-Madras/ProjectAxify) | Image compression and reconstruction using Medial Axis Transform; 33% compression, 8% OCR accuracy gain — won Best Software Project |
+| [**S&P 500 Constituent Intelligence**](https://github.com/OjasPhadake/snp500) | Point-in-time database of 25 years of index membership for survivorship-bias-free backtesting, served through FastAPI. |
+| [**Drift-Aware Trading ML Platform**](https://github.com/OjasPhadake/Stock-Price-Prediction-Project) | 4-service Dockerized prediction system at **<80 ms p95** latency, with drift detection and automated retraining. |
+| [**Portfolio Construction**](https://github.com/sparshgupta02/D6701_Projects) *(team)* | Mean-variance, HRP and Ledoit-Wolf shrinkage portfolios, plus a leakage-free LightGBM alpha model; Max-Sharpe portfolio reached **2.26** Sharpe. |
+| **Alpha Research, Trexquant** | Built ~**100** equity alphas with ablations, decorrelation analysis and meta-blending. |
+| **Limit Order Book & Matching Engine** *(in progress, C++)* | Price-time-priority matching engine benchmarked on throughput and tail latency. |
+
+## 🤖 Control & Optimization Projects
+
+| Project | |
+|---|---|
+| [**TCA-DPC**](https://github.com/ojasph/tca-dpc) | Code for the paper: exponential tilting + Langevin sampling for constraint-aware diffusion control. |
+| [**LQR vs RL**](https://github.com/OjasPhadake/LQRvsRL) | PPO rediscovers the optimal LQR law with no model knowledge: **0.26%** cost gap, **r = 0.987**. |
+| [**Offline Policy Iteration**](https://github.com/OjasPhadake/Data-Driven-Optimal-Control-via-Offline-Policy-Iteration) | Model-free optimal control from a single data batch (IEEE CDC 2018 reproduction); **11.5×** lower cost. |
+| [**Project SMAC**](https://github.com/OjasPhadake/ProjectSMAC) | ADMM motion planning with control barrier functions; **31%** lower collision probability. |
+
+## 🛠️ Toolkit
+
+**Languages:** C++ · Python · SQL · MATLAB
+**Quant & Optimization:** NumPy · Pandas · SciPy · CVXPY · LightGBM · MPC / LQR · Control Barrier Functions
+**ML & Systems:** PyTorch · Hugging Face · Docker · FastAPI · MLflow · DVC · Prometheus · Grafana
 
 ---
-
-## Technical Skills
-
-**Languages** — Python · C++ · MATLAB
-
-**ML & Deep Learning** — PyTorch · TensorFlow · Scikit-Learn · XGBoost · Transformers · Vision-Language Models · LoRA Finetuning · MeloTTS
-
-**MLOps & Engineering** — MLflow · DVC · Docker · FastAPI · Apache Spark · Ray · Git · Linux · Gradio
-
-**Data Science** — Pandas · NumPy · SciPy · Seaborn · Matplotlib · cvxpy
-
-**Foundations** — Probability & Statistics · Stochastic Processes · Convex Optimization · Numerical Linear Algebra
-
----
-
-## Areas of Interest
-
-Machine Learning · Control Theory · Optimization · Multimodal AI · NLP · MLOps · Time Series · Quantitative Finance · Probabilistic Modelling
-
----
-
 
 <div align="center">
 
-*Outside of work: writing poetry, science-fiction, and occasionally getting too deep into probability puzzles.*
-
-**ojasphadake@gmail.com**
+📫 **ojasphadake@gmail.com**
 
 </div>
