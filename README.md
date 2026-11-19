@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ojasphadake@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%20(1528)-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/baltaru)
 
-**Open to Quant Research/Dev, Robotics & Control, and ML roles (2027 graduate).**
+**Open to Quant Research/Dev, and ML Engineering roles (2027 graduate).**
 
 </div>
 
